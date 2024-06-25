@@ -32,14 +32,14 @@ pip install matplotlib
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/File_name.git
+git clone https://github.com/yourusername/repositoryname.git
 cd Addres_to_project_folder
 ```
 
 Run the main Python script and choose between CLI and GUI modes:
 
 ```bash
-python Fle_nmer.py
+python Fle_name.py
 ```
 
 ### CLI Mode
